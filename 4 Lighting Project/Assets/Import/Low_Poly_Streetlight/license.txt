@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Streetlight
+* source:	https://sketchfab.com/3d-models/low-poly-streetlight-a1e908dda2ea410d87b1329e41cb00c2
+* author:	staticcc (https://sketchfab.com/staticcc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Streetlight" (https://sketchfab.com/3d-models/low-poly-streetlight-a1e908dda2ea410d87b1329e41cb00c2) by staticcc (https://sketchfab.com/staticcc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

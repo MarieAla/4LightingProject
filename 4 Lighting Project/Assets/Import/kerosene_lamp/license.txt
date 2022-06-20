@@ -1,0 +1,11 @@
+Model Information:
+* title:	kerosene lamp
+* source:	https://sketchfab.com/3d-models/kerosene-lamp-e2cfe3649d2047f0a6dec420c31b15e1
+* author:	omegaru010 (https://sketchfab.com/omegaru010)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "kerosene lamp" (https://sketchfab.com/3d-models/kerosene-lamp-e2cfe3649d2047f0a6dec420c31b15e1) by omegaru010 (https://sketchfab.com/omegaru010) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
